@@ -1,0 +1,57 @@
+.top {
+    /*background-color: aquamarine;*/
+    text-align: center;
+    height: 85px;
+    width: 100%;
+    max-width: 1260px;
+    min-width: 755px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.table {
+    position: absolute;
+    top: 160px;
+    left: 160px;
+    background: antiquewhite;
+}
+
+.bottom {
+    position: absolute;
+    top: 600px;
+    left: 1100px;
+}
+
+.tdxg {
+    position: absolute;
+    left: 1100px;
+
+}
+
+.tdsc {
+
+}
+
+.tcxt {
+    position: absolute;
+    top: 655px;
+    left: 1280px;
+}
+.zhuyelogo{
+    position: absolute;
+    top: 20px;
+    left: 100px;
+}
+.mhcx{
+    position: absolute;
+    top: 100px;
+    left: 1100px;
+}
+.biaoti{
+    position: absolute;
+    left: 200px;
+    top: 50px;
+}
+.tcxt{
+    text-align: right;
+}
