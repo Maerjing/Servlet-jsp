@@ -13,7 +13,6 @@ public class LoginUsers {
 
     }
 
-
     public String getUname() {
         return uname;
     }
@@ -23,6 +22,7 @@ public class LoginUsers {
     }
 
     public String getUpwd() {
+        int a=0;
         return upwd;
     }
 
